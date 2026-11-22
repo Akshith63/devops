@@ -1,0 +1,5 @@
+[2026-11-22 21:24:38] [INFO] Application started
+[2026-11-22 21:24:38] [INFO] Server connected successfully
+[2026-11-22 21:24:38] [WARNING] High memory usage detected
+[2026-11-22 21:24:38] [ERROR] Database connection failed
+[2026-11-22 21:24:38] [INFO] Application stopped
